@@ -9,7 +9,7 @@
 	
 }
 
-#middle{
+#inner{
 	width:250px;
 	height:250px;
 	background-color:#ffa500;
@@ -19,7 +19,7 @@
 	justify-content:center;
 }
 
-#inner{
+#middle{
 	width:200px;
 	height:200px;
 	background-color:#ffff00;
